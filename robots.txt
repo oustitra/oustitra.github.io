@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oustitra.github.io/sitemap.html.gz
+Sitemap: https://oustitra.github.io/app/sitemap.html.gz
+Sitemap: https://oustitra.github.io/assets/sitemap.html.gz
+Sitemap: https://oustitra.github.io/css/sitemap.html.gz
+Sitemap: https://oustitra.github.io/includes/sitemap.html.gz
+Sitemap: https://oustitra.github.io/item/sitemap.html.gz
+Sitemap: https://oustitra.github.io/src/sitemap.html.gz
